@@ -2,7 +2,8 @@
 
 Este repositório contém a implementação do **Primeiro Trabalho da matéria Redes I**.
 
-**Nota:** 90/100
+**Nota:** 90/100  
+**Observações:** Meu manchester diferencial está invertido (onde é 0 era pra ser 1 e vice versa)
 
 **Professor:** Marlos Marques  
 **Semestre:** 2025.2
